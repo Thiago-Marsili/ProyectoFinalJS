@@ -1,0 +1,283 @@
+[
+   {
+      "id":1,
+      "titulo":"Fallout 4",
+      "imagen":"img/rol/1.jpg",
+      "precio":21287,
+      "categoria":"Rol"
+   },
+   {
+      "id":2,
+      "titulo":"Dragon Age: Inquisition",
+      "imagen":"img/rol/2.jpg",
+      "precio":13673,
+      "categoria":"Rol"
+   },
+   {
+      "id":3,
+      "titulo":"Pillars of Eternity II: Deadfire",
+      "imagen":"img/rol/3.jpg",
+      "precio":4999,
+      "categoria":"Rol"
+   },
+   {
+      "id":4,
+      "titulo":"Nier: Automata",
+      "imagen":"img/rol/4.jpg",
+      "precio":31617,
+      "categoria":"Rol"
+   },
+   {
+      "id":5,
+      "titulo":"Octopath Traveler",
+      "imagen":"img/rol/5.jpg",
+      "precio":31650,
+      "categoria":"Rol"
+   },
+   {
+      "id":6,
+      "titulo":"Dark Souls III",
+      "imagen":"img/rol/6.jpg",
+      "precio":11900,
+      "categoria":"Rol"
+   },
+   {
+      "id":7,
+      "titulo":"The Elder Scrolls Online",
+      "imagen":"img/rol/7.jpg",
+      "precio":19056,
+      "categoria":"Rol"
+   },
+   {
+      "id":8,
+      "titulo":"Persona 5",
+      "imagen":"img/rol/8.jpg",
+      "precio":19999,
+      "categoria":"Rol"
+   },
+   {
+      "id":9,
+      "titulo":"Starcraft Remastered",
+      "imagen":"img/estrategia/1.jpg",
+      "precio":12099,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":10,
+      "titulo":"Civilization V",
+      "imagen":"img/estrategia/2.jpg",
+      "precio":9799,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":11,
+      "titulo":"Total War: Three Kingdoms",
+      "imagen":"img/estrategia/3.jpg",
+      "precio":7899,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":12,
+      "titulo":"They Are Billions",
+      "imagen":"img/estrategia/4.jpg",
+      "precio":12225,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":13,
+      "titulo":"Company of Heroes 2",
+      "imagen":"img/estrategia/5.jpg",
+      "precio":13999,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":14,
+      "titulo":"Frostpunk",
+      "imagen":"img/estrategia/6.jpg",
+      "precio":3199,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":15,
+      "titulo":"Homeworld Remastered Collection",
+      "imagen":"img/estrategia/7.jpg",
+      "precio":3600,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":16,
+      "titulo":"Endless Legend",
+      "imagen":"img/estrategia/8.jpg",
+      "precio":7900,
+      "categoria":"Estrategia"
+   },
+   {
+      "id":17,
+      "titulo":"Euro Truck Simulator 2",
+      "imagen":"img/simulacion/1.jpg",
+      "precio":3299,
+      "categoria":"Simulación"
+   },
+   {
+      "id":18,
+      "titulo":"American Truck Simulator",
+      "imagen":"img/simulacion/2.jpg",
+      "precio":4699,
+      "categoria":"Simulación"
+   },
+   {
+      "id":19,
+      "titulo":"Planet Coaster",
+      "imagen":"img/simulacion/3.jpg",
+      "precio":2199,
+      "categoria":"Simulación"
+   },
+   {
+      "id":20,
+      "titulo":"Elite Dangerous",
+      "imagen":"img/simulacion/4.jpg",
+      "precio":18000,
+      "categoria":"Simulación"
+   },
+   {
+      "id":21,
+      "titulo":"Train Simulator 2022",
+      "imagen":"img/simulacion/5.jpg",
+      "precio":7099,
+      "categoria":"Simulación"
+   },
+   {
+      "id":22,
+      "titulo":"Microsoft Flight Simulator X",
+      "imagen":"img/simulacion/6.jpg",
+      "precio":9718,
+      "categoria":"Simulación"
+   },
+   {
+      "id":23,
+      "titulo":"Football Manager 2022",
+      "imagen":"img/simulacion/7.jpg",
+      "precio":15599,
+      "categoria":"Simulacion"
+   },
+   {
+      "id":24,
+      "titulo":"Jurassic World Evolution",
+      "imagen":"img/simulacion/8.jpg",
+      "precio":24999,
+      "categoria":"Simulación"
+   },
+   {
+      "id":25,
+      "titulo":"Pro Evolution Soccer 2022",
+      "imagen":"img/deportes/1.jpg",
+      "precio":2485,
+      "categoria":"Deportes"
+   },
+   {
+      "id":26,
+      "titulo":"UFC 4",
+      "imagen":"img/deportes/2.jpg",
+      "precio":14399,
+      "categoria":"Deportes"
+   },
+   {
+      "id":27,
+      "titulo":"Tony Hawk's Pro Skater 1+2",
+      "imagen":"img/deportes/3.jpg",
+      "precio":14706,
+      "categoria":"Deportes"
+   },
+   {
+      "id":28,
+      "titulo":"MLB The Show 21",
+      "imagen":"img/deportes/4.jpg",
+      "precio":25999,
+      "categoria":"Deportes"
+   },
+
+   {
+      "id":29,
+      "titulo":"Madden NFL 22",
+      "imagen":"img/deportes/5.jpg",
+      "precio":28999,
+      "categoria":"Deportes"
+   },
+   {
+      "id":30,
+      "titulo":"NBA 2K22",
+      "imagen":"img/deportes/6.jpg",
+      "precio":11471,
+      "categoria":"Deportes"
+   },
+   {
+      "id":31,
+      "titulo":"FIFA 22",
+      "imagen":"img/deportes/7.jpg",
+      "precio":27999,
+      "categoria":"Deportes"
+   },
+   {
+      "id":32,
+      "titulo":"F1 2021",
+      "imagen":"img/deportes/8.jpg",
+      "precio":14999,
+      "categoria":"Deportes"
+   },
+   {
+      "id":33,
+      "titulo":"Assassin's Creed Valhalla",
+      "imagen":"img/accion/1.jpg",
+      "precio":17999,
+      "categoria":"Acción"
+   },
+   {
+      "id":34,
+      "titulo":"Resident Evil 7: Biohazard",
+      "imagen":"img/accion/2.jpg",
+      "precio":7250,
+      "categoria":"Acción"
+   },
+   {
+      "id":35,
+      "titulo":"Bloodborne",
+      "imagen":"img/accion/3.jpg",
+      "precio":19999,
+      "categoria":"Acción"
+   },
+   {
+      "id":36,
+      "titulo":"Gears 5",
+      "imagen":"img/deportes/4.jpg",
+      "precio":12299,
+      "categoria":"Acción"
+   },
+   {
+      "id":37,
+      "titulo":"Titanfall 2",
+      "imagen":"img/deportes/5.jpg",
+      "precio":11999,
+      "categoria":"Acción"
+   },
+   {
+      "id":38,
+      "titulo":"Dishonored 2",
+      "imagen":"img/deportes/6.jpg",
+      "precio":16000,
+      "categoria":"Acción"
+   },
+   {
+      "id":39,
+      "titulo":"Control",
+      "imagen":"img/deportes/7.jpg",
+      "precio":14999,
+      "categoria":"Acción"
+   },
+   {
+      "id":40,
+      "titulo":"Death Stranding",
+      "imagen":"img/deportes/8.jpg",
+      "precio":11999,
+      "categoria":"Acción"
+   }
+]
